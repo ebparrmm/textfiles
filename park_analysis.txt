@@ -1,0 +1,31 @@
+Park Index
+
+Review Data Sources - Create our own park data from existing resources, plus our own research into local governments. 
+
+Coverage - Build indexes out metro by metro. 
+
+Analysis Example
+
+Merge Park Sources Together -- One layer of all parks. Buffer of park points by 500'.
+
+Generate Park Distance Raster for Urbanized Area -- cell size 500 feet. 
+Generate Density Layer from Block Point Centroids of Population 10 and Under. 
+
+Reclass Age Density in to five categories, categorial breakdowns were defined using natural breaks. 
+
+Reclass Park Density into five categories, categorial breakdowns were defined using natural breaks. 
+
+Run weighted overalay - 
+
+Data and Layer Management - Underway - Grady and Peter.
+Partioning - On hold - Matt and Steve C. 
+Data uploads - On hold - Steve C. and Jake.
+Permissions - On hold - Joe and Jake to be involved.
+Reports - Close\remove this milestone, it's captured within data export. 
+Curated layers - overlaps with Data & Layer Mgt.
+Drawing tool is child of curated layers.
+Temporal data - Underway - Wize, 6, Nate.
+Data Additions - Underway - Wize, Kaku, Parr
+Apportionment - Underway - 6, Steve C.
+
+This file's in the wrong place.
